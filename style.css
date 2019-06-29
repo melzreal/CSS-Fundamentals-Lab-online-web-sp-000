@@ -29,6 +29,6 @@ figure > figcaption {
 #details{
   display: block;
   > div {
-    float: left;  
+    float: left;
   }
 }
