@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-text-align: center
+text-align: center;
 }
 
 img {
@@ -22,6 +22,6 @@ nav > a {
 
 figure > figcaption {
   font-size: 15px;
-  text-align: center
+  text-align: center;
 
 }
